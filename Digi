@@ -1,0 +1,73 @@
+========== Islamic ===========
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peace TV Bangla" tvg-logo="https://pbs.twimg.com/media/Dhz7Kw8U8AIMcyG.png" group-title="Islamic",Peace TV Bangla
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peace TV English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Peace_TV_logo_2015.jpeg/120px-Peace_TV_logo_2015.jpeg" group-title="Islamic",Peace TV English
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peace TV Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Peace_TV_urdu_logo_2015.jpeg/120px-Peace_TV_urdu_logo_2015.jpeg" group-title="Islamic",Peace TV Urdu
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
+
+
+========= Shows & Series ==========
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Sony TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sony_TV_New_Logo.png" group-title="Shows & Series",Sony TV
+http://103.205.133.50/hls/chs.m3u8
+#EXTINF:-1 tvg-id="Sony(src07).in(m3u4u)" tvg-name="Sony TV HD" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Shows & Series",Sony TV HD
+http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTV(src07).in(m3u4u)" tvg-name="Zee TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Shows & Series",Zee TV
+http://103.205.133.50/hls/zeetv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Zee TV HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tv-hd-logo-300x300.jpg" group-title="Shows & Series",Zee TV HD
+http://103.141.66.36/bpk-tv/10403/default/index.m3u8
+
+
+
+========= General Bangla ==========
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Sansad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="General Bangla",Sansad TV
+http://103.141.66.36/bpk-tv/10036/default/index.m3u8?nanotvbd.com
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_logo.png" group-title="General Bangla",BTV
+http://103.205.133.50/hls/btv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BTV World" tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/w350/BTV%2BLive.gif" group-title="General Bangla",BTV World
+http://103.205.133.50/hls/btvworld.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BTV Chattogram" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x91288" group-title="General Bangla",BTV Chattogram
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8?@Rahul24Now
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bangla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="General Bangla",Bangla TV
+http://103.141.66.36/bpk-tv/10032/default/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Maasranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="General Bangla",Maasranga TV
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="General Bangla",Gazi TV
+http://103.141.66.36/bpk-tv/10328/default/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Channel i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="General Bangla",Channel i
+http://103.205.133.50/hls/ichannel.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ATN Bangla" tvg-logo="https://seeklogo.com/images/A/atn-bangla-logo-14FA4A5F18-seeklogo.com.png" group-title="General Bangla",ATN Bangla
+http://103.205.133.50/hls/atnbangla.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Nagorik TV" tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-title="General Bangla",Nagorik TV
+http://103.141.66.36/bpk-tv/10451/default/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="General Bangla",NTV
+http://103.205.133.50/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="General Bangla",Asian TV
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="General Bangla",RTV
+http://103.205.133.50/hls/rtv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SA TV" tvg-logo="https://i.pinimg.com/736x/38/93/dd/3893dd411284b517c30e991a974dd5f2.jpg" group-title="General Bangla",SA TV
+http://103.205.133.50/hls/satv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="My TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="General Bangla",My TV
+http://103.205.133.50/hls/mytv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" group-title="General Bangla",Boishakhi TV
+http://103.141.66.36/bpk-tv/10016/default/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bangla Vision" tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="General Bangla",Bangla Vision
+http://103.205.133.50/hls/banglavision.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="General Bangla",Ekushey TV
+http://103.205.133.50/hls/ekushey.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Desh TV" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="General Bangla",Desh TV
+http://103.141.66.36/bpk-tv/10038/default/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1280px-Channel9_bd.svg.png" group-title="General Bangla",Channel 9
+http://103.141.66.36/bpk-tv/10080/default/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Mohona TV" tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/feature/images/mohona-tv-bangladesh-logo.jpg?itok=xg4CPYea" group-title="General Bangla",Mohona TV
+http://103.205.133.50/hls/mohonatv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ananda TV" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/HRjXQdYEqsE.png" group-title="General Bangla",Ananda TV
+http://103.141.66.36/bpk-tv/10258/default/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bijoy TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg" group-title="General Bangla",Bijoy TV
+http://103.141.66.36/bpk-tv/10227/default/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DD Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Dd_Bangla.PNG" group-title="General Bangla",DD Bangla
+http://103.141.66.36/bpk-tv/10336/default/index.m3u8
